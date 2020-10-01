@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo2.c5c88392.jpeg"
   },
   {
-    "revision": "7dcb705b1876955ec389f6c55a99e1c9",
+    "revision": "cdae254ae63cfe2646db650235732c6c",
     "url": "index.html"
   },
   {
@@ -104,7 +104,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/vendor.75978b7c.js"
   },
   {
-    "revision": "a5a6293f171c1502036be78e0ff7a4fe",
+    "revision": "6bbc542621e772d122f3122881c6a192",
     "url": "manifest.json"
   },
   {
@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/evalleyT.png"
   },
   {
-    "revision": "c9920835d2adb9f6ab6a79a27f220a3a",
+    "revision": "b5011883b2852aa9309df1c2c6cc9ee4",
     "url": "statics/icons/apple-icon-120x120.png"
   },
   {
@@ -152,7 +152,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/icons/apple-icon-167x167.png"
   },
   {
-    "revision": "88dbf3d9e8269f1298486d103e22a57c",
+    "revision": "d6d9708da8e2c027dc0ecbd5f745c2b1",
     "url": "statics/icons/apple-icon-180x180.png"
   },
   {
@@ -176,7 +176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/icons/favicon.ico"
   },
   {
-    "revision": "1be07e62226c8f6a7086f132d9be1642",
+    "revision": "c82bdf4328ce2acded1f1444e0602005",
     "url": "statics/icons/icon-128x128.png"
   },
   {
