@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.3f3a2f6ce267077c4cc4d691888fc117.js"
+  "precache-manifest.2a5174f57f03b282001273bb62d575eb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "priva-map"});
