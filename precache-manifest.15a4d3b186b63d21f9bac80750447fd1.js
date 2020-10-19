@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "879409b1f6ce976d82ce",
-    "url": "css/1.577691ec.css"
+    "revision": "111b233d6b2124914978",
+    "url": "css/1.f4bdcae9.css"
   },
   {
-    "revision": "47cecd8d329ac0680be1",
+    "revision": "15f62064f794c777e9d2",
     "url": "css/4.399b340b.css"
   },
   {
-    "revision": "ac9b53a4722e1af7af19",
+    "revision": "ef663f5277b53c2b0bd6",
     "url": "css/app.668d16c4.css"
   },
   {
@@ -76,32 +76,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo2.c5c88392.jpeg"
   },
   {
-    "revision": "d6d6f51fe9853c2918eb4451604203a9",
+    "revision": "637b60a6f531b03838317fea6c78ae91",
     "url": "index.html"
   },
   {
-    "revision": "879409b1f6ce976d82ce",
-    "url": "js/1.879409b1.js"
+    "revision": "111b233d6b2124914978",
+    "url": "js/1.111b233d.js"
   },
   {
     "revision": "79bb81be164449a51dad",
     "url": "js/2.79bb81be.js"
   },
   {
-    "revision": "47cecd8d329ac0680be1",
-    "url": "js/4.47cecd8d.js"
+    "revision": "15f62064f794c777e9d2",
+    "url": "js/4.15f62064.js"
   },
   {
     "revision": "b632ce2c4d0a8ee43753",
     "url": "js/5.b632ce2c.js"
   },
   {
-    "revision": "ac9b53a4722e1af7af19",
-    "url": "js/app.7e75039f.js"
+    "revision": "ef663f5277b53c2b0bd6",
+    "url": "js/app.5e6462c8.js"
   },
   {
-    "revision": "75978b7c5753b99957e4",
-    "url": "js/vendor.75978b7c.js"
+    "revision": "fd3722272a18b2587999",
+    "url": "js/vendor.fd372227.js"
   },
   {
     "revision": "4b740852db39a330c5a621ba15993817",
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/action.png"
   },
   {
-    "revision": "34f64d373df7260f923b226356a5f288",
+    "revision": "8b0384ff898b8deb7788e89e2fc59c35",
     "url": "statics/compass.svg"
   },
   {
@@ -208,7 +208,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/icons/ms-icon-144x144.png"
   },
   {
-    "revision": "81e8999fc203e92656f351308212c654",
+    "revision": "b0e0cf02fdaeb5ccb55f821ed493ab1c",
     "url": "statics/icons/safari-pinned-tab.svg"
   },
   {
@@ -216,7 +216,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/local.png"
   },
   {
-    "revision": "e9083ea275a1b4e10e82bf8d80e47923",
+    "revision": "b41dc38bc5ca9ccd8596d79bad7a0392",
     "url": "statics/location.svg"
   },
   {
