@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "438394fe83731438ba22",
+    "revision": "af0f03aaafaed4aa796e",
     "url": "css/1.673fe6d8.css"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/4.399b340b.css"
   },
   {
-    "revision": "42e1f1156066a956dd6c",
+    "revision": "61ca69627c6c0aef60f5",
     "url": "css/app.e53db7f5.css"
   },
   {
@@ -84,12 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo2.c5c88392.jpeg"
   },
   {
-    "revision": "ea94a448cda458d19c44fe8e46e87c77",
+    "revision": "af1a4f983139e376e6acc5b089e4aac5",
     "url": "index.html"
   },
   {
-    "revision": "438394fe83731438ba22",
-    "url": "js/1.438394fe.js"
+    "revision": "af0f03aaafaed4aa796e",
+    "url": "js/1.af0f03aa.js"
   },
   {
     "revision": "79bb81be164449a51dad",
@@ -104,15 +104,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/5.b632ce2c.js"
   },
   {
-    "revision": "42e1f1156066a956dd6c",
-    "url": "js/app.37ea91f1.js"
+    "revision": "61ca69627c6c0aef60f5",
+    "url": "js/app.1d5dc0d8.js"
   },
   {
     "revision": "d206d1940f0836af0602",
     "url": "js/vendor.d206d194.js"
   },
   {
-    "revision": "4b740852db39a330c5a621ba15993817",
+    "revision": "48436adb6cdc2a56edecd8082f8d5ddb",
     "url": "manifest.json"
   },
   {
@@ -149,75 +149,147 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9cd11b623a9ffbf7de3b8ca5de59d304",
-    "url": "statics/icons/apple-icon-120x120.png"
+    "url": "statics/icons/PrivaMap Logo/apple-icon-120x120.png"
   },
   {
     "revision": "6fa9d1bbbae0d75bb596e91fff663c8b",
-    "url": "statics/icons/apple-icon-152x152.png"
+    "url": "statics/icons/PrivaMap Logo/apple-icon-152x152.png"
   },
   {
     "revision": "631f304422ea29372d975ae19a6e6ce6",
-    "url": "statics/icons/apple-icon-167x167.png"
+    "url": "statics/icons/PrivaMap Logo/apple-icon-167x167.png"
   },
   {
     "revision": "6eb57bfa56244064849505390d8554bc",
-    "url": "statics/icons/apple-icon-180x180.png"
+    "url": "statics/icons/PrivaMap Logo/apple-icon-180x180.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/PrivaMap Logo/evalleyS.png"
   },
   {
     "revision": "ae0314d63675db652fbe492679019bb2",
-    "url": "statics/icons/favicon-128x128.png"
+    "url": "statics/icons/PrivaMap Logo/favicon-128x128.png"
   },
   {
     "revision": "8a6993eea20c9b3d5231c0f4f92a5975",
-    "url": "statics/icons/favicon-16x16.png"
+    "url": "statics/icons/PrivaMap Logo/favicon-16x16.png"
   },
   {
     "revision": "0580b9e04a7be4e16b750312536c19bc",
-    "url": "statics/icons/favicon-32x32.png"
+    "url": "statics/icons/PrivaMap Logo/favicon-32x32.png"
   },
   {
     "revision": "45c76bf590cfc4019b931c936c908892",
-    "url": "statics/icons/favicon-96x96.png"
+    "url": "statics/icons/PrivaMap Logo/favicon-96x96.png"
   },
   {
     "revision": "4a8d0734a76956fa1b65737a2cddc78e",
-    "url": "statics/icons/favicon.ico"
+    "url": "statics/icons/PrivaMap Logo/favicon.ico"
   },
   {
     "revision": "ae0314d63675db652fbe492679019bb2",
-    "url": "statics/icons/icon-128x128.png"
+    "url": "statics/icons/PrivaMap Logo/icon-128x128.png"
   },
   {
     "revision": "2354fe02091df62ed44b51acc0602749",
-    "url": "statics/icons/icon-192x192.png"
+    "url": "statics/icons/PrivaMap Logo/icon-192x192.png"
   },
   {
     "revision": "1e4a69ab7f121027ea8dce62f4dfa5ca",
-    "url": "statics/icons/icon-2480x2480.png"
+    "url": "statics/icons/PrivaMap Logo/icon-2480x2480.png"
   },
   {
     "revision": "1a216711a0d3e3018ff25b7c904f8282",
-    "url": "statics/icons/icon-256x256.png"
+    "url": "statics/icons/PrivaMap Logo/icon-256x256.png"
   },
   {
     "revision": "7ac6ee3dc5b48ac8a7043c6e1e97ec5c",
-    "url": "statics/icons/icon-384x384.png"
+    "url": "statics/icons/PrivaMap Logo/icon-384x384.png"
   },
   {
     "revision": "160d5cf74f6a2a6e0ced2db4e9fd6a45",
-    "url": "statics/icons/icon-512x512.png"
+    "url": "statics/icons/PrivaMap Logo/icon-512x512.png"
   },
   {
     "revision": "0de027adbdce5628a0e47ef6f056f660",
-    "url": "statics/icons/icon.png"
+    "url": "statics/icons/PrivaMap Logo/icon.png"
   },
   {
     "revision": "8b2411a2f09cb0022c5fe753dcd8543e",
-    "url": "statics/icons/ms-icon-144x144.png"
+    "url": "statics/icons/PrivaMap Logo/ms-icon-144x144.png"
   },
   {
     "revision": "b0e0cf02fdaeb5ccb55f821ed493ab1c",
-    "url": "statics/icons/safari-pinned-tab.svg"
+    "url": "statics/icons/PrivaMap Logo/safari-pinned-tab.svg"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/apple-icon-120x120.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/apple-icon-152x152.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/apple-icon-167x167.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/apple-icon-180x180.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/favicon-128x128.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/favicon-16x16.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/favicon-32x32.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/favicon-96x96.png"
+  },
+  {
+    "revision": "76c64d53f8a876fe01d52ffd8356493b",
+    "url": "statics/icons/favicon.ico"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/icon-128x128.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/icon-192x192.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/icon-2480x2480.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/icon-256x256.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/icon-384x384.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/icon-512x512.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/icon.png"
+  },
+  {
+    "revision": "56d8bf42effaa1f167f4f040b3473b47",
+    "url": "statics/icons/ms-icon-144x144.png"
   },
   {
     "revision": "62675f242900c59a9c5b670bf0ce52eb",
