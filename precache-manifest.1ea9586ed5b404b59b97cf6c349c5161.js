@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bced023ce639183b0f7d",
+    "revision": "7413c44b64af7e355638",
     "url": "css/1.119ac158.css"
   },
   {
-    "revision": "6a4ffe16f2101f027d9b",
+    "revision": "b9a87b272ba10e739002",
     "url": "css/4.399b340b.css"
   },
   {
-    "revision": "f6824e8f33dc62260ddd",
+    "revision": "3a9ff4a5caf942e8e40c",
     "url": "css/app.e53db7f5.css"
   },
   {
@@ -84,28 +84,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo2.c5c88392.jpeg"
   },
   {
-    "revision": "9b1fed6419d9f8900ed3161222726949",
+    "revision": "4b696ec6d830eb23dd440d48d6deba40",
     "url": "index.html"
   },
   {
-    "revision": "bced023ce639183b0f7d",
-    "url": "js/1.bced023c.js"
+    "revision": "7413c44b64af7e355638",
+    "url": "js/1.7413c44b.js"
   },
   {
     "revision": "79bb81be164449a51dad",
     "url": "js/2.79bb81be.js"
   },
   {
-    "revision": "6a4ffe16f2101f027d9b",
-    "url": "js/4.6a4ffe16.js"
+    "revision": "b9a87b272ba10e739002",
+    "url": "js/4.b9a87b27.js"
   },
   {
     "revision": "b632ce2c4d0a8ee43753",
     "url": "js/5.b632ce2c.js"
   },
   {
-    "revision": "f6824e8f33dc62260ddd",
-    "url": "js/app.a0258a13.js"
+    "revision": "3a9ff4a5caf942e8e40c",
+    "url": "js/app.f4cf9960.js"
   },
   {
     "revision": "d206d1940f0836af0602",
@@ -292,16 +292,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/icons/ms-icon-144x144.png"
   },
   {
+    "revision": "2abeae562f98e3f87670f8b7093cea84",
+    "url": "statics/icons/whiteIcon.png"
+  },
+  {
     "revision": "62675f242900c59a9c5b670bf0ce52eb",
     "url": "statics/local.png"
   },
   {
     "revision": "b41dc38bc5ca9ccd8596d79bad7a0392",
     "url": "statics/location.svg"
-  },
-  {
-    "revision": "2abeae562f98e3f87670f8b7093cea84",
-    "url": "statics/logoEvalleyWhite.png"
   },
   {
     "revision": "37938f58f911ebbc54f5b505ba327145",
